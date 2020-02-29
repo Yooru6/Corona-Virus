@@ -1,0 +1,264 @@
+country,country_code,region,income_group,year,life_expectancy
+Aruba,ABW,Latin America & Caribbean,High income,2015,75.573585366
+Afghanistan,AFG,South Asia,Low income,2015,60.717170732
+Angola,AGO,Sub-Saharan Africa,Lower middle income,2015,52.666097561
+Albania,ALB,Europe & Central Asia,Upper middle income,2015,78.014463415
+Andorra,AND,Europe & Central Asia,High income,2015,
+Arab World,ARB,,,2015,70.714065111
+United Arab Emirates,ARE,Middle East & North Africa,High income,2015,77.541243902
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2015,76.334219512
+Armenia,ARM,Europe & Central Asia,Lower middle income,2015,74.797121951
+American Samoa,ASM,East Asia & Pacific,Upper middle income,2015,
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,2015,76.100219512
+Australia,AUS,East Asia & Pacific,High income,2015,82.451219512
+Austria,AUT,Europe & Central Asia,High income,2015,81.843902439
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,2015,70.848780488
+Burundi,BDI,Sub-Saharan Africa,Low income,2015,57.10704878
+Belgium,BEL,Europe & Central Asia,High income,2015,81.287804878
+Benin,BEN,Sub-Saharan Africa,Low income,2015,59.720707317
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,2015,58.931292683
+Bangladesh,BGD,South Asia,Lower middle income,2015,72.001195122
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,2015,74.465853659
+Bahrain,BHR,Middle East & North Africa,High income,2015,76.819097561
+"Bahamas, The",BHS,Latin America & Caribbean,High income,2015,75.396829268
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,2015,76.588585366
+Belarus,BLR,Europe & Central Asia,Upper middle income,2015,73.624390244
+Belize,BLZ,Latin America & Caribbean,Upper middle income,2015,70.192365854
+Bermuda,BMU,North America,High income,2015,81.012195122
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,2015,68.739609756
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2015,74.675878049
+Barbados,BRB,Latin America & Caribbean,High income,2015,75.658439024
+Brunei Darussalam,BRN,East Asia & Pacific,High income,2015,79.040829268
+Bhutan,BTN,South Asia,Lower middle income,2015,69.832853659
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,2015,64.487414634
+Central African Republic,CAF,Sub-Saharan Africa,Low income,2015,51.419121951
+Canada,CAN,North America,High income,2015,82.137634146
+Central Europe and the Baltics,CEB,,,2015,77.026907103
+Switzerland,CHE,Europe & Central Asia,High income,2015,83.197560976
+Channel Islands,CHI,Europe & Central Asia,High income,2015,80.751682927
+Chile,CHL,Latin America & Caribbean,High income,2015,81.787560976
+China,CHN,East Asia & Pacific,Upper middle income,2015,75.986341463
+Cote d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,2015,51.919756098
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2015,55.934390244
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,Low income,2015,59.023902439
+"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,2015,62.867658537
+Colombia,COL,Latin America & Caribbean,Upper middle income,2015,74.18202439
+Comoros,COM,Sub-Saharan Africa,Low income,2015,63.55402439
+Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,2015,73.355634146
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,2015,79.586463415
+Caribbean small states,CSS,,,2015,73.030190575
+Cuba,CUB,Latin America & Caribbean,Upper middle income,2015,79.546414634
+Curacao,CUW,Latin America & Caribbean,High income,2015,
+Cayman Islands,CYM,Latin America & Caribbean,High income,2015,
+Cyprus,CYP,Europe & Central Asia,High income,2015,80.307097561
+Czech Republic,CZE,Europe & Central Asia,High income,2015,79.473170732
+Germany,DEU,Europe & Central Asia,High income,2015,81.090243902
+Djibouti,DJI,Middle East & North Africa,Lower middle income,2015,62.285658537
+Dominica,DMA,Latin America & Caribbean,Upper middle income,2015,
+Denmark,DNK,Europe & Central Asia,High income,2015,81.1
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,2015,73.676682927
+Algeria,DZA,Middle East & North Africa,Upper middle income,2015,75.042536585
+East Asia & Pacific (excluding high income),EAP,,,2015,74.174157072
+Early-demographic dividend,EAR,,,2015,69.320758989
+East Asia & Pacific,EAS,,,2015,75.105969992
+Europe & Central Asia (excluding high income),ECA,,,2015,72.213420346
+Europe & Central Asia,ECS,,,2015,77.278912619
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,2015,76.102926829
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,2015,71.31695122
+Euro area,EMU,,,2015,82.070276041
+Eritrea,ERI,Sub-Saharan Africa,Low income,2015,64.100902439
+Spain,ESP,Europe & Central Asia,High income,2015,83.380487805
+Estonia,EST,Europe & Central Asia,High income,2015,77.131707317
+Ethiopia,ETH,Sub-Saharan Africa,Low income,2015,64.57804878
+European Union,EUU,,,2015,81.126429056
+Fragile and conflict affected situations,FCS,,,2015,61.441762929
+Finland,FIN,Europe & Central Asia,High income,2015,81.385365854
+Fiji,FJI,East Asia & Pacific,Upper middle income,2015,70.256268293
+France,FRA,Europe & Central Asia,High income,2015,82.670731707
+Faroe Islands,FRO,Europe & Central Asia,High income,2015,81.634146341
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,2015,69.234243902
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,2015,64.890341463
+United Kingdom,GBR,Europe & Central Asia,High income,2015,81.604878049
+Georgia,GEO,Europe & Central Asia,Lower middle income,2015,74.817414634
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,2015,61.491731707
+Gibraltar,GIB,Europe & Central Asia,High income,2015,
+Guinea,GIN,Sub-Saharan Africa,Low income,2015,59.193439024
+"Gambia, The",GMB,Sub-Saharan Africa,Low income,2015,60.467682927
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,2015,55.467317073
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,2015,57.963414634
+Greece,GRC,Europe & Central Asia,High income,2015,81.587804878
+Grenada,GRD,Latin America & Caribbean,Upper middle income,2015,73.523
+Greenland,GRL,Europe & Central Asia,High income,2015,
+Guatemala,GTM,Latin America & Caribbean,Lower middle income,2015,71.956487805
+Guam,GUM,East Asia & Pacific,High income,2015,79.379
+Guyana,GUY,Latin America & Caribbean,Upper middle income,2015,66.507512195
+High income,HIC,,,2015,80.779647346
+"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,2015,84.27804878
+Honduras,HND,Latin America & Caribbean,Lower middle income,2015,73.333121951
+Heavily indebted poor countries (HIPC),HPC,,,2015,61.215176656
+Croatia,HRV,Europe & Central Asia,Upper middle income,2015,77.275609756
+Haiti,HTI,Latin America & Caribbean,Low income,2015,63.073756098
+Hungary,HUN,Europe & Central Asia,High income,2015,75.96097561
+IBRD only,IBD,,,2015,72.354967064
+IDA & IBRD total,IBT,,,2015,69.985403966
+IDA total,IDA,,,2015,62.82301021
+IDA blend,IDB,,,2015,60.663007248
+Indonesia,IDN,East Asia & Pacific,Lower middle income,2015,69.071682927
+IDA only,IDX,,,2015,63.891232927
+Isle of Man,IMN,Europe & Central Asia,High income,2015,
+India,IND,South Asia,Lower middle income,2015,68.348560976
+Ireland,IRL,Europe & Central Asia,High income,2015,81.502439024
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,2015,75.591341463
+Iraq,IRQ,Middle East & North Africa,Upper middle income,2015,69.590268293
+Iceland,ISL,Europe & Central Asia,High income,2015,82.86097561
+Israel,ISR,Middle East & North Africa,High income,2015,82.051219512
+Italy,ITA,Europe & Central Asia,High income,2015,83.490243902
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,2015,75.798170732
+Jordan,JOR,Middle East & North Africa,Lower middle income,2015,74.203341463
+Japan,JPN,East Asia & Pacific,High income,2015,83.843658537
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,2015,72.0
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,2015,62.133731707
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,2015,70.651219512
+Cambodia,KHM,East Asia & Pacific,Lower middle income,2015,68.656146341
+Kiribati,KIR,East Asia & Pacific,Lower middle income,2015,66.147853659
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,2015,
+"Korea, Rep.",KOR,East Asia & Pacific,High income,2015,82.155853659
+Kuwait,KWT,Middle East & North Africa,High income,2015,74.697902439
+Latin America & Caribbean (excluding high income),LAC,,,2015,74.941180743
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,2015,66.539878049
+Lebanon,LBN,Middle East & North Africa,Upper middle income,2015,79.628609756
+Liberia,LBR,Sub-Saharan Africa,Low income,2015,61.16095122
+Libya,LBY,Middle East & North Africa,Upper middle income,2015,71.826317073
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,2015,75.184512195
+Latin America & Caribbean,LCN,,,2015,75.163963092
+Least developed countries: UN classification,LDC,,,2015,63.527685619
+Low income,LIC,,,2015,61.730949893
+Liechtenstein,LIE,Europe & Central Asia,High income,2015,82.073170732
+Sri Lanka,LKA,South Asia,Lower middle income,2015,74.953195122
+Lower middle income,LMC,,,2015,67.417409293
+Low & middle income,LMY,,,2015,69.912995299
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,2015,49.961219512
+Late-demographic dividend,LTE,,,2015,75.362786422
+Lithuania,LTU,Europe & Central Asia,High income,2015,75.119512195
+Luxembourg,LUX,Europe & Central Asia,High income,2015,82.229268293
+Latvia,LVA,Europe & Central Asia,High income,2015,74.124390244
+"Macao SAR, China",MAC,East Asia & Pacific,High income,2015,80.766073171
+St. Martin (French part),MAF,Latin America & Caribbean,High income,2015,79.470731707
+Morocco,MAR,Middle East & North Africa,Lower middle income,2015,74.289317073
+Monaco,MCO,Europe & Central Asia,High income,2015,
+Moldova,MDA,Europe & Central Asia,Lower middle income,2015,71.626439024
+Madagascar,MDG,Sub-Saharan Africa,Low income,2015,65.482780488
+Maldives,MDV,South Asia,Upper middle income,2015,76.979
+Middle East & North Africa,MEA,,,2015,73.053627846
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2015,76.920682927
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,2015,
+Middle income,MIC,,,2015,70.868230223
+"Macedonia, FYR",MKD,Europe & Central Asia,Upper middle income,2015,75.495341463
+Mali,MLI,Sub-Saharan Africa,Low income,2015,58.457219512
+Malta,MLT,Middle East & North Africa,High income,2015,81.946341463
+Myanmar,MMR,East Asia & Pacific,Lower middle income,2015,66.042073171
+Middle East & North Africa (excluding high income),MNA,,,2015,72.483494047
+Montenegro,MNE,Europe & Central Asia,Upper middle income,2015,76.337707317
+Mongolia,MNG,East Asia & Pacific,Lower middle income,2015,69.821268293
+Northern Mariana Islands,MNP,East Asia & Pacific,High income,2015,
+Mozambique,MOZ,Sub-Saharan Africa,Low income,2015,55.371243902
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,2015,63.202829268
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,2015,74.353170732
+Malawi,MWI,Sub-Saharan Africa,Low income,2015,63.796853659
+Malaysia,MYS,East Asia & Pacific,Upper middle income,2015,74.875170732
+North America,NAC,,,2015,79.083090536
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,2015,64.915439024
+New Caledonia,NCL,East Asia & Pacific,High income,2015,77.773170732
+Niger,NER,Sub-Saharan Africa,Low income,2015,61.96902439
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2015,53.048878049
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,2015,75.098121951
+Netherlands,NLD,Europe & Central Asia,High income,2015,81.707317073
+Norway,NOR,Europe & Central Asia,High income,2015,82.1
+Nepal,NPL,South Asia,Low income,2015,69.973341463
+Nauru,NRU,East Asia & Pacific,Upper middle income,2015,
+New Zealand,NZL,East Asia & Pacific,High income,2015,81.456829268
+OECD members,OED,,,2015,80.324809134
+Oman,OMN,Middle East & North Africa,High income,2015,77.324195122
+Other small states,OSS,,,2015,66.614556687
+Pakistan,PAK,South Asia,Lower middle income,2015,66.37697561
+Panama,PAN,Latin America & Caribbean,Upper middle income,2015,77.767292683
+Peru,PER,Latin America & Caribbean,Upper middle income,2015,74.780731707
+Philippines,PHL,East Asia & Pacific,Lower middle income,2015,68.406756098
+Palau,PLW,East Asia & Pacific,High income,2015,
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,2015,62.776682927
+Poland,POL,Europe & Central Asia,High income,2015,78.204878049
+Pre-demographic dividend,PRE,,,2015,58.748667346
+Puerto Rico,PRI,Latin America & Caribbean,High income,2015,79.572317073
+"Korea, Dem. People’s Rep.",PRK,East Asia & Pacific,Low income,2015,70.337926829
+Portugal,PRT,Europe & Central Asia,High income,2015,81.52195122
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,2015,73.025634146
+West Bank and Gaza,PSE,Middle East & North Africa,Lower middle income,2015,73.074195122
+Pacific island small states,PSS,,,2015,70.10616856
+Post-demographic dividend,PST,,,2015,80.645063958
+French Polynesia,PYF,East Asia & Pacific,High income,2015,76.752414634
+Qatar,QAT,Middle East & North Africa,High income,2015,78.762585366
+Romania,ROU,Europe & Central Asia,Upper middle income,2015,74.96097561
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,2015,70.908536585
+Rwanda,RWA,Sub-Saharan Africa,Low income,2015,64.524536585
+South Asia,SAS,,,2015,68.433244695
+Saudi Arabia,SAU,Middle East & North Africa,High income,2015,74.493341463
+Sudan,SDN,Sub-Saharan Africa,Lower middle income,2015,63.710731707
+Senegal,SEN,Sub-Saharan Africa,Low income,2015,66.804414634
+Singapore,SGP,East Asia & Pacific,High income,2015,82.595121951
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,2015,68.146243902
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,2015,51.308170732
+El Salvador,SLV,Latin America & Caribbean,Lower middle income,2015,73.001097561
+San Marino,SMR,Europe & Central Asia,High income,2015,
+Somalia,SOM,Sub-Saharan Africa,Low income,2015,55.685585366
+Serbia,SRB,Europe & Central Asia,Upper middle income,2015,75.487804878
+Sub-Saharan Africa (excluding high income),SSA,,,2015,58.97329638
+South Sudan,SSD,Sub-Saharan Africa,Low income,2015,56.111512195
+Sub-Saharan Africa,SSF,,,2015,58.974620781
+Small states,SST,,,2015,67.992584291
+Sao Tome and Principe,STP,Sub-Saharan Africa,Lower middle income,2015,66.513707317
+Suriname,SUR,Latin America & Caribbean,Upper middle income,2015,71.294170732
+Slovak Republic,SVK,Europe & Central Asia,High income,2015,77.212195122
+Slovenia,SVN,Europe & Central Asia,High income,2015,81.07804878
+Sweden,SWE,Europe & Central Asia,High income,2015,82.551219512
+Swaziland,SWZ,Sub-Saharan Africa,Lower middle income,2015,48.87395122
+Sint Maarten (Dutch part),SXM,Latin America & Caribbean,High income,2015,
+Seychelles,SYC,Sub-Saharan Africa,High income,2015,73.229268293
+Syrian Arab Republic,SYR,Middle East & North Africa,Lower middle income,2015,70.089317073
+Turks and Caicos Islands,TCA,Latin America & Caribbean,High income,2015,
+Chad,TCD,Sub-Saharan Africa,Low income,2015,51.873317073
+East Asia & Pacific (IDA & IBRD countries),TEA,,,2015,74.222308723
+Europe & Central Asia (IDA & IBRD countries),TEC,,,2015,72.715877298
+Togo,TGO,Sub-Saharan Africa,Low income,2015,60.120756098
+Thailand,THA,East Asia & Pacific,Upper middle income,2015,74.601195122
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,2015,69.768439024
+Turkmenistan,TKM,Europe & Central Asia,Upper middle income,2015,65.736439024
+Latin America & the Caribbean (IDA & IBRD countries),TLA,,,2015,75.055892362
+Timor-Leste,TLS,East Asia & Pacific,Lower middle income,2015,68.526414634
+Middle East & North Africa (IDA & IBRD countries),TMN,,,2015,72.47629854
+Tonga,TON,East Asia & Pacific,Upper middle income,2015,72.94404878
+South Asia (IDA & IBRD),TSA,,,2015,68.433244695
+Sub-Saharan Africa (IDA & IBRD countries),TSS,,,2015,58.974620781
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,2015,70.557707317
+Tunisia,TUN,Middle East & North Africa,Lower middle income,2015,74.97597561
+Turkey,TUR,Europe & Central Asia,Upper middle income,2015,75.426219512
+Tuvalu,TUV,East Asia & Pacific,Upper middle income,2015,
+Tanzania,TZA,Sub-Saharan Africa,Low income,2015,65.487487805
+Uganda,UGA,Sub-Saharan Africa,Low income,2015,59.179073171
+Ukraine,UKR,Europe & Central Asia,Lower middle income,2015,71.189512195
+Upper middle income,UMC,,,2015,74.871425706
+Uruguay,URY,Latin America & Caribbean,High income,2015,77.138219512
+United States,USA,North America,High income,2015,78.741463415
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,2015,68.453073171
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,2015,73.052365854
+"Venezuela, RB",VEN,Latin America & Caribbean,Upper middle income,2015,74.409609756
+British Virgin Islands,VGB,Latin America & Caribbean,High income,2015,
+Virgin Islands (U.S.),VIR,Latin America & Caribbean,High income,2015,79.873170732
+Vietnam,VNM,East Asia & Pacific,Lower middle income,2015,75.777731707
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,2015,72.157365854
+World,WLD,,,2015,71.663960681
+Samoa,WSM,East Asia & Pacific,Upper middle income,2015,73.764878049
+Kosovo,XKX,Europe & Central Asia,Lower middle income,2015,71.346341463
+"Yemen, Rep.",YEM,Middle East & North Africa,Lower middle income,2015,64.031390244
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2015,57.440902439
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,2015,60.785682927
+Zimbabwe,ZWE,Sub-Saharan Africa,Low income,2015,59.161073171
